@@ -31,4 +31,4 @@ Feel free to explore, experiment, and adapt these projects to your needs. Contri
 
 This project is licensed under the [MIT License](LICENSE), making it open and accessible for everyone.
 
-Happy coding! 🚀
+Happy Learning! 🚀
